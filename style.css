@@ -1,0 +1,90 @@
+h1 {
+    color: #B31312;
+    font-size: 3.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Sacramento", cursive;
+    text-align: center;
+    margin-bottom: 2rem;
+    
+}
+body{
+    border: 0;
+}
+.icon{
+    margin-top: 1rem;
+    padding-top: 0;
+    margin-left: 80%;
+    height: 80px;
+    border: none;
+}
+#hero{
+    background-color: #EEE2DE;
+}
+.pro{
+color: #EA906C;
+text-align: center;
+margin-bottom: 10px;
+font-size: 1.5rem;
+}
+.icon1{
+    margin-left: 10%;
+    margin-bottom: 1rem;
+}
+.fazzy{
+    height: 100px;
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+.profile{
+    margin-top: 2rem;
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: #EA906C;
+    text-align: center;
+    font-size: 2rem;
+}
+.hello{
+    color: black;
+    font-weight: 500;
+    text-align: center;
+}
+.group{
+    margin-bottom: 5rem;
+}
+.joker{
+    text-align: center;
+    font-size: xx-large;
+    color: #EA906C;
+}
+.parent{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1,1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.Join{
+    color: #EA906C;
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    /* height: 100vh; */
+  }
+  .hel{
+    text-align: left;
+  }
